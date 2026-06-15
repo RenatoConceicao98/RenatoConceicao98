@@ -50,7 +50,3 @@ I’m passionate about the world of technology and fascinated by AI.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoConceicao98&layout=compact&theme=tokyonight" />
 </p>
 
-
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
