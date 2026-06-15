@@ -16,7 +16,7 @@ I’m passionate about the world of technology and fascinated by AI.
   </a>
   
   <a href="https://www.linkedin.com/in/renato-conceicao-51b40333b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" />
+    <img src="[https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
   </a>
 </p>
 
