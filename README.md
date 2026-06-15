@@ -4,10 +4,9 @@
 🇵🇹 Portugal
 
 I´m currently doing a degree in computer engineering at UAB in Portugal and I already have a technical degree in computer science.
+
 I’m passionate about the world of technology and fascinated by AI.
 
----
----
 ---
 ## 🌐 Where to find me
 
