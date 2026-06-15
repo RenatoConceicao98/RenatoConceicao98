@@ -14,7 +14,7 @@ I’m passionate about the world of technology and fascinated by AI.
   <a href="https://github.com/RenatoConceicao98">
     <img src="https://img.shields.io/badge/GitHub-RenatoConceicao98-181717?style=for-the-badge&logo=github" />
   </a>
-  
+  <br>
   <a href="https://www.linkedin.com/in/renato-conceicao-51b40333b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
